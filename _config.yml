@@ -13,9 +13,10 @@ title                    : "Alahe Akhavan"
 title_separator          : "-"
 name                     : &name "Alahe Akhavan"
 description              : &description "personal description"
-url:                     "https://akhavana.github.io"   # your GitHub pages domain
-baseurl                  : "/alahe.github.io"          # repo name, with a leading slash
-repository               : "akhavana/alahe.github.io"
+# IMPORTANT: project-site settings
+url                      : "https://akhavana.github.io"   # your GitHub Pages domain
+baseurl                  : "/alahe.github.io"             # repo name with leading slash
+repository               : "akhavana/alahe.github.io"     # owner/repo
 
 
 # Site Author - The following control what appear as part of the author content on the side bar.
@@ -46,7 +47,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "https://github.com/Akhavana?tab=repositories"
+  github           : "Akhavana"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -61,7 +62,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "www.linkedin.com/in/alaheakhavan"
+  linkedin         : "https://www.linkedin.com/in/alaheakhavan"  # use full URL
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -295,9 +296,7 @@ sass:
 
 # Outputting
 permalink: /:categories/:title/
-# paginate: 5 # amount of posts to show
-# paginate_path: /page:num/
-timezone: Etc/UTC # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/Los_Angeles  # matches your local time
 
 
 # Plugins
