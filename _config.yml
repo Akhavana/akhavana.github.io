@@ -14,9 +14,9 @@ title_separator          : "-"
 name                     : &name "Alahe Akhavan"
 description              : &description "personal description"
 # Project site settings
-url                      : "https://akhavana.github.io"   # your GitHub Pages domain
-baseurl                  : "/alahe.github.io"             # repo name with leading slash
-repository               : "akhavana/alahe.github.io"     # owner/repo
+url                      : https://akhavana.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+baseurl                  : "" # the subpath of your site, e.g. "/blog"
+repository               : "academicpages/academicpages.github.io"
 
 # Site Author (sidebar info)
 author:
