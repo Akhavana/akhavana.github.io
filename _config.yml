@@ -9,9 +9,9 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Your Name / Site Title"
+title                    : "Alahe Akhavan"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Alahe Akhavan"
 description              : &description "personal description"
 # Project site settings
 url                      : "https://akhavana.github.io"   # your GitHub Pages domain
@@ -24,7 +24,7 @@ author:
   name             : "Alahe Akhavan"
   pronouns         :
   bio              : "Mechanical Engineering Undergraduate"
-  employer         : "University of California, Berkeley"
+  employer         : "UC Berkeley"
   uri              :
   email            : "alaheakhavan@berkeley.edu"
 
