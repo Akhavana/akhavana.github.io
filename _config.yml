@@ -1,5 +1,3 @@
-# Welcome to Jekyll!
-
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
@@ -10,20 +8,20 @@ description              : &description "personal description"
 
 # Project site settings
 url                      : "https://akhavana.github.io"
-baseurl                  : "/alahe.github.io"
-repository               : "akhavana/alahe.github.io"
+baseurl                  : "/alahe.github.io"             # repo name with leading slash
+repository               : "akhavana/alahe.github.io"     # owner/repo
 
 # Site Author
 author:
   avatar           : "profile.png"
   name             : "Alahe Akhavan"
   bio              : "Mechanical Engineering Undergraduate"
-  employer         : "University of California, Berkeley"
+  employer         : "University of California, Berkeley"  # fixed spelling
   email            : "alaheakhavan@berkeley.edu"
   github           : "Akhavana"
   linkedin         : "https://www.linkedin.com/in/alaheakhavan"
 
-# Publication categories
+# Publication Category headings (optional)
 publication_category:
   books:
     title: 'Books'
@@ -44,7 +42,7 @@ comments:
 atom_feed:
   hide                   : true
 
-# Collections
+# Collections (only what you want)
 collections:
   publications:
     output: true
@@ -56,7 +54,7 @@ collections:
     output: true
     permalink: /:collection/:path/
 
-# Defaults
+# Defaults for layouts
 defaults:
   - scope:
       path: ""
@@ -98,7 +96,7 @@ sass:
 permalink: /:categories/:title/
 timezone: America/Los_Angeles
 
-# Plugins
+# Plugins (kept minimal)
 plugins:
   - jekyll-feed
   - jekyll-gist
@@ -121,6 +119,7 @@ tag_archive:
   type: liquid
   path: /tags/
 
+# HTML Compression
 compress_html:
   clippings: all
   ignore:
