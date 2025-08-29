@@ -9,9 +9,9 @@
 
 main:
   - title: "Research Projects"
-    url: /portfolio/research/
+    url: /research/
   - title: "Personal Projects"
-    url: /portfolio/personal/
+    url: /personal/
   - title: "Publications"
     url: /publications/
     title: "CV"
