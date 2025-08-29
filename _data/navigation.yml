@@ -14,6 +14,8 @@ main:
     url: /portfolio/personal/
   - title: "Publications"
     url: /publications/
+    title: "CV"
+    url: /cv.pdf
   - title: "Fun"
     url: /fun/
 
