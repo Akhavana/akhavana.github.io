@@ -4,10 +4,8 @@ title: "Fun"
 permalink: /fun/
 author_profile: true
 ---
-
-{% include base_path %}
-
-
-{% for post in site.fun %}
-  {% include archive-single.html %}
+## Hobbies
+{% for i in (0..6) %}
+<img src="/files/{{ i }}.jpg"><br>
 {% endfor %}
+
