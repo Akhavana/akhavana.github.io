@@ -6,7 +6,7 @@ author_profile: true
 ---
 ## Research Projects
 Dorsal Grasper
-<img src="/files/research/SACNASDGPoster.jpg"><br>
+<img src="/files/research/SACNASDGPoster.pdf"><br>
 
 
 Prosthetic
@@ -14,7 +14,7 @@ Prosthetic
 
 
 Biomedical Device
-<img src="/files/research/TremorEZ.pdf"><br>
+<img src="/files/research/TremorEz.pdf"><br>
 
 TTE
 <img src="/files/research/TTEPoster.pdf"><br>
