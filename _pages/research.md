@@ -6,7 +6,7 @@ author_profile: true
 ---
 ## Research Projects
 Dorsal Grasper
-<img src="/files/research/DGposter.pdf"><br>
+<img src="/files/DorsalGrasper.pdf"><br>
 
 Prosthetic
 <img src="/files/research/surfposter.pdf"><br>
