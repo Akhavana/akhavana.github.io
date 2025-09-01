@@ -8,10 +8,8 @@ author_profile: true
 Dorsal Grasper
 <img src="/files/research/SACNASDGPoster.pdf"><br>
 
-
 Prosthetic
 <img src="/files/research/SURF25_poster_Alahe_Akhavan.pdf"><br>
-
 
 Biomedical Device
 <img src="/files/research/TremorEz.pdf"><br>
