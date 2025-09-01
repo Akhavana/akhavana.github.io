@@ -9,7 +9,7 @@ Dorsal Grasper
 <img src="/files/research/DGposter.pdf"><br>
 
 Prosthetic
-<img src="/files/research/SURF1.pdf"><br>
+<img src="/files/research/surf.pdf"><br>
 
 Biomedical Device
 <img src="/files/research/TremorEz.pdf"><br>
