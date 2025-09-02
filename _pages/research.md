@@ -5,7 +5,10 @@ permalink: /research/
 author_profile: true
 ---
 ## Assistive Grasping, Dorsal Grasper, Research Assistant
-<iframe src="/files/DorsalGrasper.pdf" width="600" height="400"></iframe>
+<object data="/files/DorsalGrasper.pdf" type="application/pdf" width="400" height="300">
+  <p><a href="/files/DorsalGrasper.pdf">View PDF</a></p>
+</object>
+
 <img src="/files/DorsalGrasper1.pdf"><br>
 
 ## Prosthetic Hand with Dexterous Articulation for Grasping and Manipulation, Research Fellow
