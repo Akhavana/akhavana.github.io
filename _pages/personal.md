@@ -34,6 +34,7 @@ Contributors: Franklin Ho, David Lu, Harrison Lee
 
 ## Maze Navigator Robot 
 Contributor: Srihan Chowdhury
+
 <img src="/files/personal/rover2.pdf" width="600"><br>
 
 
