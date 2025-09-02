@@ -16,7 +16,7 @@ author_profile: true
 <img src="/files/research/tactilesensing.pdf" width="500"><br>
 
 ## Maze Navigator Robot 
-<img src="/files/personal/3.pdf"><br>
+<img src="/files/personal/rover.pdf" width="600"><br>
 
 ## Biomedical Assistive Device for Parkinson’s
 <img src="/files/personal/4.pdf"><br>
