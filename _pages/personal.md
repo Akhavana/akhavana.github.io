@@ -12,16 +12,16 @@ classes: narrow
 <img src="/files/research/tactilesensing.pdf" width="400"><br>
 
 ## Maze Navigator Robot 
-<img src="/files/personal/rover2.pdf" width="400"><br>
+<img src="/files/personal/rover2.pdf" width="600"><br>
 
 ## A* Pathfinder Navigation in Different Environments
-<img src="/files/personal/Astar.pdf" width="400"><br>
+<img src="/files/personal/Astar.pdf" width="300"><br>
 
 ## Biomedical Assistive Device for Parkinson’s
 ### Iteration 1 
-<img src="/files/personal/spoon.pdf" width="400"><br>
+<img src="/files/personal/spoon.pdf" width="200"><br>
 ### Iteration 2 
-<img src="/files/personal/spoon2.pdf" width="400"><br>
+<img src="/files/personal/spoon2.pdf" width="200"><br>
 
 # Class projects (Part of a team)
 Contributers: Diana Bolaños, Mako Miyatake, Nimran Shergill, Semina Yi, Tianyu Yu, Mingjie Zheng
