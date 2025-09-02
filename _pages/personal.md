@@ -3,6 +3,8 @@ layout: archive
 title: " "
 permalink: /personal/
 author_profile: true
+layout: single
+classes: narrow
 ---
 # Personal Projects
 ## Tactile Sensing Control Optimization, Research Assistant
