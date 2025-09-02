@@ -21,10 +21,6 @@ classes: narrow
 
 <img src="/files/research/TremorEz.pdf" width="600"><br>
 
-## Tactile Sensing Control Optimization, Research Assistant
-### [View Report](https://docs.google.com/document/d/19N0jAA_bwLHm9t842TZ42jjwXDzBPo-nJz1gyBxMMus/edit?usp=sharing)
-
-<img src="/files/research/tactilesensing.pdf" width="500"><br>
 
 ## Multi-robot Collaborative Planning for Package Transportation, Research Fellow
 <img src="/files/research/TTEPoster.pdf" width="600"><br>
