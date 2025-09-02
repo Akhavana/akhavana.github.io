@@ -14,8 +14,8 @@ main:
   - title: "Personal Projects"
     url: /personal/
     
-  - title: "Publications"
-    url: /publications/
+  - title: "Publication"
+    url: /publication/
     
     title: "CV"
     url: /cv.pdf
