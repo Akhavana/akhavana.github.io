@@ -14,6 +14,9 @@ classes: narrow
 ## A* Pathfinder Navigation 
 <img src="/files/personal/Astar.pdf" width="300"><br>
 
+## Maze Navigator Robot 
+<img src="/files/personal/rover2.pdf" width="600"><br>
+
 ## Biomedical Assistive Device for Parkinson’s
 ### Iteration 1 
 <img src="/files/personal/spoon.pdf" width="200"><br>
@@ -31,11 +34,6 @@ Contributors: Franklin Ho, David Lu, Harrison Lee
 
 <img src="/files/personal/teamachine2.pdf" width="600"><br>
 <img src="/files/personal/teamachine.pdf" width="600"><br>
-
-## Maze Navigator Robot 
-Contributor: Srihan Chowdhury
-
-<img src="/files/personal/rover2.pdf" width="600"><br>
 
 
 
