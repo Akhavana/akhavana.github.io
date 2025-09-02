@@ -3,7 +3,10 @@ layout: archive
 title: "Research Projects"
 permalink: /research/
 author_profile: true
+layout: single
+classes: narrow
 ---
+
 ## Assistive Grasping, Dorsal Grasper, Research Assistant
  <img rc="/files/DorsalGrasper.pdf" alt="Poster" width="400">
 <img src="/files/DorsalGrasper.pdf"><br>
