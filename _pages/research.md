@@ -8,7 +8,7 @@ classes: narrow
 ---
 
 ## Assistive Grasping, Dorsal Grasper, Research Assistant
- <img rc="/files/DorsalGrasper.pdf" alt="Poster" width="400">
+<img rc="/files/DorsalGrasper.pdf" alt="Poster" width="400">
 <img src="/files/DorsalGrasper.pdf"><br>
 <img src="/files/DorsalGrasper1.pdf"><br>
 
