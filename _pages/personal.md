@@ -7,16 +7,19 @@ author_profile: true
 # Personal Projects
 ## Tactile Sensing Control Optimization, Research Assistant
 ### [View Report](https://docs.google.com/document/d/19N0jAA_bwLHm9t842TZ42jjwXDzBPo-nJz1gyBxMMus/edit?usp=sharing)
-<img src="/files/research/tactilesensing.pdf" width="500"><br>
+<img src="/files/research/tactilesensing.pdf" width="400"><br>
 
 ## Maze Navigator Robot 
-<img src="/files/personal/rover.pdf" width="600"><br>
+<img src="/files/personal/rover2.pdf" width="400"><br>
 
 ## A* Pathfinder Navigation in Different Environments
-<img src="/files/personal/astar.pdf" width="400"><br>
+<img src="/files/personal/Astar.pdf" width="400"><br>
 
 ## Biomedical Assistive Device for Parkinson’s
-<img src="/files/personal/4.pdf"><br>
+### Iteration 1 
+<img src="/files/personal/spoon.pdf" width="400"><br>
+### Iteration 2 
+<img src="/files/personal/spoon2.pdf" width="400"><br>
 
 # Class projects (Part of a team)
 Contributers: Diana Bolaños, Mako Miyatake, Nimran Shergill, Semina Yi, Tianyu Yu, Mingjie Zheng
