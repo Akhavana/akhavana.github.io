@@ -9,7 +9,8 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Alahe Akhavan"
+title                    : "Homepage of Alahe Akhavan"
+subtitle                 : "Undergraduate Robotic Researcher"
 title_separator          : "-"
 name                     : &name "Alahe Akhavan"
 description              : &description "personal description"
