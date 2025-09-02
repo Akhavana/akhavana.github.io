@@ -26,6 +26,7 @@ Contributers: Diana Bolaños, Mako Miyatake, Nimran Shergill, Semina Yi, Tianyu 
 
 ## Tea Making Machine, Mechanical Engineering Capstone Project
 Contributers: Franklin Ho, David Lu, Harrison Lee
+
 <img src="/files/personal/teamachine2.pdf" width="600"><br>
 <img src="/files/personal/teamachine.pdf" width="600"><br>
 
