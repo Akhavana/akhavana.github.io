@@ -10,7 +10,7 @@ redirect_from:
 
 Thank you for visiting my website! 
 
-I'm currently a fourth year Mechanical Engineering Undergrad at UC Berkeley, interested in applying for PhD programs in Mechanical Engineering for fall 2026. Currently contributing to a robotic assistive device research project at the ([EDG Lab](https://edg.berkeley.edu/)) working with Junpyo Lee and Drew McPherson under mentorship of Prof. Hannah Stuart.
+I'm a fourth year Mechanical Engineering Undergrad at UC Berkeley (graduating Dec 2025), working towards applying for PhD programs in Mechanical Engineering this fall. Currently contributing to a robotic assistive device research project at the ([EDG Lab](https://edg.berkeley.edu/)) working with Junpyo Lee and Drew McPherson under mentorship of Prof. Hannah Stuart.
 
 My research interests are Human-Robot Interaction (HRI) and Biomedical Devices. My past research experiences include robotic control for motion planning and grasping manipulation, biomedical assistive device design and programming, manufacturing and design, and engineering materials. Alongside research, I have some passion projects ([Personal Projects](https://akhavana.github.io/personal/)) which I take on to learn new skills and gain better understanding of various engineering areas.
 
