@@ -18,10 +18,12 @@ classes: narrow
 
 ## Assistive Glove For Parkinson’s, Mechanical Engineer
 [Slides](https://docs.google.com/presentation/d/1rORSEVM2foOfVwtInRCRlhDM4QqjanAeF4PgJ1CGjn0/edit?usp=sharing)
+
 <img src="/files/research/TremorEz.pdf" width="600"><br>
 
 ## Tactile Sensing Control Optimization, Research Assistant
 [Report](https://docs.google.com/document/d/19N0jAA_bwLHm9t842TZ42jjwXDzBPo-nJz1gyBxMMus/edit?usp=sharing)
+
 <img src="/files/research/tactilesensing.pdf" width="500"><br>
 
 ## Multi-robot Collaborative Planning for Package Transportation, Research Fellow
