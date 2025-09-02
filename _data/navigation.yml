@@ -10,16 +10,13 @@
 main:
   - title: "Research Projects"
     url: /research/
-    
   - title: "Personal Projects"
     url: /personal/
-    
   - title: "Publications"
     url: /publications/
-    
-    title: "CV"
+  - title: "CV"
     url: /cv.pdf
-    
   - title: "Fun"
     url: /fun/
+
 
