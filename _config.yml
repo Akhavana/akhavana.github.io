@@ -230,6 +230,7 @@ collections:
 # These settings control how pages and collections are included in the site
 defaults:
   # _posts
+  
   - scope:
       path: ""
       type: posts
@@ -245,7 +246,7 @@ defaults:
       path: ""
       type: pages
     values:
-      layout: single
+      layout: narrow
       author_profile: true
   # _teaching
   - scope:
