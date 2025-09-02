@@ -10,6 +10,10 @@ author_profile: true
 ## Tea Making Machine, Mechanical Engineering Capstone Project
 <img src="/files/personal/2.pdf"><br>
 
+## Tactile Sensing Control Optimization, Research Assistant
+### [View Report](https://docs.google.com/document/d/19N0jAA_bwLHm9t842TZ42jjwXDzBPo-nJz1gyBxMMus/edit?usp=sharing)
+<img src="/files/research/tactilesensing.pdf" width="500"><br>
+
 ## Maze Navigator Robot 
 <img src="/files/personal/3.pdf"><br>
 
