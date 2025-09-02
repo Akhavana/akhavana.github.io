@@ -8,7 +8,8 @@ author_profile: true
 <img src="/files/personal/1.pdf"><br>
 
 ## Tea Making Machine, Mechanical Engineering Capstone Project
-<img src="/files/personal/2.pdf"><br>
+<img src="/files/personal/teamachine2.pdf" width="600"><br>
+<img src="/files/personal/teamachine.pdf" width="600"><br>
 
 ## Tactile Sensing Control Optimization, Research Assistant
 ### [View Report](https://docs.google.com/document/d/19N0jAA_bwLHm9t842TZ42jjwXDzBPo-nJz1gyBxMMus/edit?usp=sharing)
