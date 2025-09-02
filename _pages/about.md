@@ -16,4 +16,4 @@ My research interests are Human-Robot Interaction (HRI) and Biomedical Devices. 
 
 Another passion of mine is STEM outreach. I actively work with K–12 students, helping them learn about science through projects and hands-on experiments. I really enjoy supporting youth as they discover their interests in STEM. I also mentor new college students, helping them navigate resources, providing guidance, and ways to build skills. 
 
-In my free time I enjoy hicking, exploring new places, reading, and journaling.
+In my free time I enjoy hiking, exploring new places, reading, and journaling.
