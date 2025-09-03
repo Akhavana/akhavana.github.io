@@ -24,8 +24,8 @@ classes: narrow
 <img src="/files/personal/spoon2.pdf" width="200"><br>
 
 # Class projects (Part of a team)
-Contributors: Diana Bolaños, Mako Miyatake, Nimran Shergill, Semina Yi, Tianyu Yu, Mingjie Zheng
 ## Flexible Wearable Garment
+Contributors: Diana Bolaños, Mako Miyatake, Nimran Shergill, Semina Yi, Tianyu Yu, Mingjie Zheng
 <img src="/files/personal/garment.pdf" width="600"><br>
 <img src="/files/personal/garment2.pdf" width="600"><br>
 
