@@ -25,7 +25,7 @@ classes: narrow
 
 # Class projects (Part of a team)
 ## Robot Training for Advanced Manufacturing-3D Printing
-<img src="/files/personal/robotarm.gif" width="400"><br>
+<img src="/files/personal/robotarm2.gif" width="400"><br>
 
 
 ## Flexible Wearable Garment
