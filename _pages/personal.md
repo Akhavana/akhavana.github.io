@@ -24,6 +24,10 @@ classes: narrow
 <img src="/files/personal/spoon2.pdf" width="200"><br>
 
 # Class projects (Part of a team)
+## Robot Training for Advanced Manufacturing-3D Printing
+<img src="/files/personal/robotarm.gif" width="400"><br>
+
+
 ## Flexible Wearable Garment
 Contributors: Diana Bolaños, Mako Miyatake, Nimran Shergill, Semina Yi, Tianyu Yu, Mingjie Zheng
 <img src="/files/personal/garment.pdf" width="600"><br>
