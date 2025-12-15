@@ -12,8 +12,7 @@ Includes independent research projects, personal projects, and class projects.
 ## Tactile Sensing Control Optimization, Undergraduate Researcher
 ### [View Report](https://docs.google.com/document/d/19N0jAA_bwLHm9t842TZ42jjwXDzBPo-nJz1gyBxMMus/edit?usp=sharing)
 <img src="/files/personal/UR5tactitleSensinggif.gif" width="300"><br>
-###  
-
+##
 
 ## A* Pathfinder Navigation, Independent Project
 ### [Github Depo](https://github.com/Akhavana/Astar.git)
@@ -28,6 +27,7 @@ Includes independent research projects, personal projects, and class projects.
 <img src="/files/personal/spoon2.pdf" width="200"><br>
 ## 
 
+## 
 # Class projects
 ## Robot Training for Advanced Manufacturing-3D Printing
 <img src="/files/personal/robotarm2.gif" width="400"><br>
