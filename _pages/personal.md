@@ -25,9 +25,6 @@ Includes independent research projects, personal projects, and class projects.
 
 
 ## Biomedical Assistive Device for Parkinson’s, Independent Research
-### Iteration 1 
-<img src="/files/personal/spoon.pdf" width="200"><br>
-### Iteration 2 
 <img src="/files/personal/spoon2.pdf" width="200"><br>
 
 
