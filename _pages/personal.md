@@ -13,18 +13,15 @@ Includes independent research projects, personal projects, and class projects.
 ### [View Report](https://docs.google.com/document/d/19N0jAA_bwLHm9t842TZ42jjwXDzBPo-nJz1gyBxMMus/edit?usp=sharing)
 ### <img src="/files/personal/UR5tactitleSensinggif.gif" width="300"><br>
 
-
 ## A* Pathfinder Navigation, Independent Project
 ### [Github Depo](https://github.com/Akhavana/Astar.git)
 <img src="/files/personal/AstarSimFast.gif" width="300"><br>
- 
 
 ## Maze Navigator Robot, Personal Project
 <img src="/files/personal/rover2.pdf" width="600"><br>  
 
 ## Biomedical Assistive Device for Parkinson’s, Independent Research
 <img src="/files/personal/spoon2.pdf" width="200"><br>
- 
 
 
 # Class projects
