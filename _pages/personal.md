@@ -19,7 +19,7 @@ Includes independent research projects, personal projects, and class projects.
 <img src="/files/personal/AstarSimFast.gif" width="300"><br>
 ## 
 
-## Maze Navigator Robot 
+## Maze Navigator Robot, Personal Project
 <img src="/files/personal/rover2.pdf" width="600"><br>
 ##  
 
@@ -29,11 +29,14 @@ Includes independent research projects, personal projects, and class projects.
 
 ## 
 # Class projects
+##
 ## Robot Training for Advanced Manufacturing-3D Printing
+### Course: Modeling and Simulation of Advanced Manufacturing Processes
 <img src="/files/personal/robotarm2.gif" width="400"><br>
 ##  
 
 ## Wind Tunnel Testing with Stepped Airfoil
+### Course: Experimentation and Measurements
 ### [Report to be added soon]()
 Contributors: Angel Hernandez, James Hoadley, Nola Brady
 
@@ -41,12 +44,14 @@ Contributors: Angel Hernandez, James Hoadley, Nola Brady
 ##  
 
 ## Flexible Wearable Garment
+### Course: Introduction to Product Development
 Contributors: Diana Bolaños, Mako Miyatake, Nimran Shergill, Semina Yi, Tianyu Yu, Mingjie Zheng
 <img src="/files/personal/garment.pdf" width="600"><br>
 <img src="/files/personal/garment2.pdf" width="600"><br>
 ##   
 
 ## Tea Making Machine, Mechanical Engineering Capstone Project
+### Course: Mechatronics Design
 Contributors: Franklin Ho, David Lu, Harrison Lee
 
 <img src="/files/personal/teamachine2.pdf" width="600"><br>
