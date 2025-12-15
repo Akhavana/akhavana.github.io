@@ -15,6 +15,7 @@ Includes independent research projects, personal projects, and class projects.
 
 
 ## A* Pathfinder Navigation, Independent Project
+### [Github Depo](https://github.com/Akhavana/Astar.git)
 <img src="/files/personal/AstarSimFast.gif" width="300"><br>
 
 ## Maze Navigator Robot 
@@ -31,6 +32,7 @@ Includes independent research projects, personal projects, and class projects.
 <img src="/files/personal/robotarm2.gif" width="400"><br>
 
 ## Wind Tunnel Testing with Stepped Airfoil
+### [Report to be added soon]()
 Contributors: Angel Hernandez, James Hoadley, Nola Brady
 
 <img src="/files/personal/me103projectpic2.gif" width="400"><br>
