@@ -24,8 +24,8 @@ classes: narrow
 
 
 ## Multi-robot Collaborative Planning for Package Transportation, Research Fellow
-[View Program website, Abstract](https://engineering.berkeley.edu/admissions/undergraduate-admissions/junior-transfers/transfer-to-excellence/tte-research-archive/)
+### [View Program website, Abstract](https://engineering.berkeley.edu/admissions/undergraduate-admissions/junior-transfers/transfer-to-excellence/tte-research-archive/)
 
-[View Presentation](https://docs.google.com/presentation/d/1H2BqiEppMCVev_f62Vsu5_kpivCEcGlKDqQN2rybBBs/edit?usp=sharing)
+### [View Presentation](https://docs.google.com/presentation/d/1H2BqiEppMCVev_f62Vsu5_kpivCEcGlKDqQN2rybBBs/edit?usp=sharing)
 
 <img src="/files/research/TTEPoster.pdf" width="600"><br>
