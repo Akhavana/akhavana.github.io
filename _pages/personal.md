@@ -12,7 +12,7 @@ classes: narrow
 <img src="/files/research/tactilesensing.pdf" width="400"><br>
 
 ## A* Pathfinder Navigation 
-<img src="/files/personal/AstarSim.pdf" width="300"><br>
+<img src="/files/personal/AstarSim.gif" width="300"><br>
 
 ## Maze Navigator Robot 
 <img src="/files/personal/rover2.pdf" width="600"><br>
