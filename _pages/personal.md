@@ -9,7 +9,7 @@ classes: narrow
 # Personal Projects
 Includes independent research projects, personal projects, and class projects.
 
-## Tactile Sensing Control Optimization, Undergraduate Researcher
+## Tactile Sensing Control Optimization, Undergraduate Research
 ### [View Report](https://docs.google.com/document/d/19N0jAA_bwLHm9t842TZ42jjwXDzBPo-nJz1gyBxMMus/edit?usp=sharing)
  <img src="/files/personal/UR5tactitleSensinggif.gif" width="300"><br>
 
@@ -17,10 +17,10 @@ Includes independent research projects, personal projects, and class projects.
 ### [Github Depo](https://github.com/Akhavana/Astar.git)
 <img src="/files/personal/AstarSimFast.gif" width="300"><br>
 
-## Maze Navigator Robot, Personal Project
+## Maze Navigator Robot, Independent Project
 <img src="/files/personal/rover2.pdf" width="600"><br>  
 
-## Biomedical Assistive Device for Parkinson’s, Independent Research
+## Biomedical Assistive Device for Parkinson’s, Undergraduate Research
 <img src="/files/personal/spoon2.pdf" width="200"><br>
 
 
