@@ -40,6 +40,7 @@ Contributors: Angel Hernandez, James Hoadley, Nola Brady
 
 <img src="/files/personal/me103projectpic2.gif" width="400"><br>  
 
+
 ## Flexible Wearable Garment
 ### Course: Introduction to Product Development
 Contributors: Diana Bolaños, Mako Miyatake, Nimran Shergill, Semina Yi, Tianyu Yu, Mingjie Zheng
