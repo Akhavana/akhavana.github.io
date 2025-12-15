@@ -29,6 +29,7 @@ classes: narrow
 
 ## Wind Tunnel Testing with Stepped Airfoil
 Contributors: Angel Hernandez, James Hoadley, Nola Brady
+
 <img src="/files/personal/me103projectpic2.gif" width="400"><br>
 
 ## Flexible Wearable Garment
