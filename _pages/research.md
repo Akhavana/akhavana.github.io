@@ -8,6 +8,7 @@ classes: narrow
 ---
 
 ## Assistive Grasping, Dorsal Grasper, Research Assistant
+### [Published Paper to be added soon]()
 <img src="/files/DorsalGrasper.pdf" width="600"><br>
 <img src="/files/DorsalGrasper1.pdf" width="600"><br>
 
@@ -18,11 +19,11 @@ classes: narrow
 
 
 ## Assistive Glove For Parkinson’s, Mechanical Engineer
-### [View Slides](https://docs.google.com/presentation/d/1rORSEVM2foOfVwtInRCRlhDM4QqjanAeF4PgJ1CGjn0/edit?usp=sharing)
+### [View Slides](https://docs.google.com/presentation/d/1tGjBSrauFkR9BaF6ZvrU9cytF2d1UshGkqac6uMO2sI/edit?usp=sharing)
 <img src="/files/research/TremorEz.pdf" width="600"><br>
 
 
 ## Multi-robot Collaborative Planning for Package Transportation, Research Fellow
 [Program website, Abstract](https://engineering.berkeley.edu/admissions/undergraduate-admissions/junior-transfers/transfer-to-excellence/tte-research-archive/)
-
+[Presentation](https://docs.google.com/presentation/d/1H2BqiEppMCVev_f62Vsu5_kpivCEcGlKDqQN2rybBBs/edit?usp=sharing)
 <img src="/files/research/TTEPoster.pdf" width="600"><br>
