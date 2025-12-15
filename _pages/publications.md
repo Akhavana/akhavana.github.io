@@ -6,8 +6,8 @@ author_profile: true
 ---
 
 # Evaluating Supernumerary Dorsal Grasping in the Home for People with C5–C7 Spinal Cord Injury
-IEEE Transactions on Neural Systems and Rehabilitation Engineering (TNSRE) (Submitted for review)
-Andrew I.W. McPherson, Jungpyo Lee, Alahe Akhavan, Hannah S. Stuart. 
+IEEE Transactions on Neural Systems and Rehabilitation Engineering (TNSRE).
+Andrew I.W. McPherson, Jungpyo Lee, Alahe Akhavan, Hannah S. Stuart.  (Submitted for review)
 
 
 # Assistive Dorsal Grasper Modifications for In-Home Experiments
