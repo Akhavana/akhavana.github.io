@@ -7,24 +7,26 @@ layout: single
 classes: narrow
 ---
 # Personal Projects
-## Tactile Sensing Control Optimization, Research Assistant
+Includes independent research projects, personal projects, and class projects.
+
+## Tactile Sensing Control Optimization, Undergraduate Researcher
 ### [View Report](https://docs.google.com/document/d/19N0jAA_bwLHm9t842TZ42jjwXDzBPo-nJz1gyBxMMus/edit?usp=sharing)
 <img src="/files/personal/UR5tactitleSensinggif.gif" width="300"><br>
 
 
-## A* Pathfinder Navigation 
+## A* Pathfinder Navigation, Independent Project
 <img src="/files/personal/AstarSimFast.gif" width="300"><br>
 
 ## Maze Navigator Robot 
 <img src="/files/personal/rover2.pdf" width="600"><br>
 
-## Biomedical Assistive Device for Parkinson’s
+## Biomedical Assistive Device for Parkinson’s, Independent Research
 ### Iteration 1 
 <img src="/files/personal/spoon.pdf" width="200"><br>
 ### Iteration 2 
 <img src="/files/personal/spoon2.pdf" width="200"><br>
 
-# Class projects (Part of a team)
+# Class projects
 ## Robot Training for Advanced Manufacturing-3D Printing
 <img src="/files/personal/robotarm2.gif" width="400"><br>
 
@@ -43,7 +45,4 @@ Contributors: Franklin Ho, David Lu, Harrison Lee
 
 <img src="/files/personal/teamachine2.pdf" width="600"><br>
 <img src="/files/personal/teamachine.pdf" width="600"><br>
-
-
-
 
