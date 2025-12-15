@@ -9,7 +9,8 @@ classes: narrow
 # Personal Projects
 ## Tactile Sensing Control Optimization, Research Assistant
 ### [View Report](https://docs.google.com/document/d/19N0jAA_bwLHm9t842TZ42jjwXDzBPo-nJz1gyBxMMus/edit?usp=sharing)
-<img src="/files/research/tactilesensing.pdf" width="400"><br>
+<img src="/files/personal/UR5tactitleSensinggif.gif" width="300"><br>
+
 
 ## A* Pathfinder Navigation 
 <img src="/files/personal/AstarSimFast.gif" width="300"><br>
