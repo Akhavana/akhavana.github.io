@@ -11,7 +11,7 @@ Includes independent research projects, personal projects, and class projects.
 
 ## Tactile Sensing Control Optimization, Undergraduate Researcher
 ### [View Report](https://docs.google.com/document/d/19N0jAA_bwLHm9t842TZ42jjwXDzBPo-nJz1gyBxMMus/edit?usp=sharing)
-<img src="/files/personal/UR5tactitleSensinggif.gif" width="300"><br>
+### <img src="/files/personal/UR5tactitleSensinggif.gif" width="300"><br>
 
 
 ## A* Pathfinder Navigation, Independent Project
