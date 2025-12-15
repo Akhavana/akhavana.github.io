@@ -27,6 +27,9 @@ classes: narrow
 ## Robot Training for Advanced Manufacturing-3D Printing
 <img src="/files/personal/robotarm2.gif" width="400"><br>
 
+## Wind Tunnel Testing with Stepped Airfoil
+Contributors: Angel Hernandez, James Hoadley, Nola Brady
+<img src="/files/personal/me103projectpic2.gif" width="400"><br>
 
 ## Flexible Wearable Garment
 Contributors: Diana Bolaños, Mako Miyatake, Nimran Shergill, Semina Yi, Tianyu Yu, Mingjie Zheng
