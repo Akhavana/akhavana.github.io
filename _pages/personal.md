@@ -32,7 +32,7 @@ Includes independent research, personal projects, and class projects.
 
 ## Wind Tunnel Testing with Stepped Airfoil
 ### Course: Experimentation and Measurements
-### [Report to be added soon]()
+### [View Report](/ProjectReport.pdf)
 Contributors: Angel Hernandez, James Hoadley, Nola Brady
 
 <img src="/files/personal/me103projectpic2.gif" width="400"><br>  
