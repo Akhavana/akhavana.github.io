@@ -16,6 +16,7 @@ classes: narrow
 ## Prosthetic Hand with Dexterous Articulation for Grasping and Manipulation, Research Fellow
 ### [View Program website](https://engineering.stanford.edu/SURF2025Cohort)
 ### [View Presentation Slides](https://docs.google.com/presentation/d/1omA1tZpSibrrzHgUCAoYD_zTAGRAZ09-mH5C4iFI1w8/edit?usp=sharing)
+### [view git depo] (https://github.com/Akhavana/Dexterous-Hand-ROS2.git)
 <img src="/files/research/surfposter.pdf" width="600"><br>
 
 
