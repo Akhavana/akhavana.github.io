@@ -8,9 +8,9 @@ redirect_from:
 ---
 
 
-Thank you for visiting my website! 
+Thank you for visiting my portfolio! 
 
-I'm a recent Mechanical Engineering Bachelor of Science graduate from UC Berkeley (class of 2025), currently in pursuit of a PhD degree in Mechanical Engineering this fall with a focus on robotic control and medical technology. I recently concluded my research assistantship, contributed to a robotic assistive device research project at the ([EDG Lab](https://edg.berkeley.edu/)) working with Junpyo Lee and Drew McPherson under mentorship of Dr. Hannah Stuart.
+I'm a recent Mechanical Engineering Bachelor of Science grad from UC Berkeley (class of 2025). Incoming masters student at Johns Hopkins University, Department of Mechanical Engineering. My reseach interests are Medical Technology and Human-robot Interaction.
 
 My past ([research experiences](https://akhavana.github.io/research/)) include robotic control for motion planning and grasping manipulation, biomedical assistive devices, manufacturing and design, and engineering materials. Alongside research, I have some passion projects ([personal projects](https://akhavana.github.io/personal/)) which I take on to learn new skills and gain better understanding of various engineering areas. 
 
