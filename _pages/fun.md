@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Fun"
+title: "Prior Courses"
 permalink: /fun/
 author_profile: true
 ---
