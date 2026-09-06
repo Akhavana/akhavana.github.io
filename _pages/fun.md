@@ -5,7 +5,7 @@ permalink: /fun/
 author_profile: true
 ---
 # Courses Taken at UC Berkeley
-Includes both upper undergraduate and graduate courses.
+Highlighting some of the elective and major required courses (graduate and undergraduate) I took as a B.S. in Mechanical Engineering. 
 
 ## Engineering Design and Simulation
  Manufacturing and Design Communication 
