@@ -12,6 +12,8 @@ main:
     url: /research/
   - title: "Personal Projects"
     url: /personal/
+  - title: "Prior Courses"
+    url: /fun/
   - title: "Publications"
     url: /publications/
   - title: "CV"
