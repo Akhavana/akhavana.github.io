@@ -9,6 +9,7 @@ Includes both upper undergraduate and graduate courses.
 
 ## Engineering Design and Simulation
  Manufacturing and Design Communication 
+ 
  Modeling and Simulation of Advanced Manufacturing Processes (Graduate course)
  Statistics and Data Science for Engineers (Graduate course)
  Special Topics in Design Innovation (Graduate course)
