@@ -1,10 +1,9 @@
 ---
 layout: archive
-title: "Prior Courses"
+title: "Courses Taken at UC Berkeley"
 permalink: /fun/
 author_profile: true
 ---
-# Courses Taken at UC Berkeley
 Highlighting some of the elective and major required courses (graduate and undergraduate) I took as a B.S. in Mechanical Engineering. 
 
 ## Engineering Design and Simulation
