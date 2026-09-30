@@ -33,4 +33,8 @@ Highlighting some of the elective and major required courses (graduate and under
 
 
 # Courses Taken at Johns Hopkins University
-To be added soon!
+Robot Devices, Kinematics, Dynamics, and Control
+ 
+Locomotion Mechanics: Fundamentals
+
+Biosolid Mechanics
